@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "2d1f482034e4d05617a9359aa68ec822"
-build_time: [1543474284, 311862000]
-inputs:
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/websocket.git-2736189289702106755/Sources/WebSocket/Exports.swift": [1543471530, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/websocket.git-2736189289702106755/Sources/WebSocket/WebSocket+Client.swift": [1543471530, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/websocket.git-2736189289702106755/Sources/WebSocket/WebSocket+Server.swift": [1543471530, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/websocket.git-2736189289702106755/Sources/WebSocket/WebSocket.swift": [1543471530, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/websocket.git-2736189289702106755/Sources/WebSocket/WebSocketHandler.swift": [1543471530, 0]

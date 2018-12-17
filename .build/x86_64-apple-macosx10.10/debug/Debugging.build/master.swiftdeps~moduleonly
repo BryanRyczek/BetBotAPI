@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "729005ca064d59985d681897c0eb179f"
-build_time: [1543474256, 132814000]
-inputs:
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/core.git--4406317797109753806/Sources/Debugging/Debuggable.swift": [1543471530, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/core.git--4406317797109753806/Sources/Debugging/Demangler.swift": [1543471530, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/core.git--4406317797109753806/Sources/Debugging/SourceLocation.swift": [1543471530, 0]

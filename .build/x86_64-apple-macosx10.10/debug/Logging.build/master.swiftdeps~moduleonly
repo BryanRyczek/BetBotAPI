@@ -1,8 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "f52a9de735ca90ea06a56f9fa372f8eb"
-build_time: [1543474282, 607341000]
-inputs:
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/console.git-1987563504970879981/Sources/Logging/Exports.swift": [1543471529, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/console.git-1987563504970879981/Sources/Logging/LogLevel.swift": [1543471529, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/console.git-1987563504970879981/Sources/Logging/Logger.swift": [1543471529, 0]
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/console.git-1987563504970879981/Sources/Logging/PrintLogger.swift": [1543471529, 0]

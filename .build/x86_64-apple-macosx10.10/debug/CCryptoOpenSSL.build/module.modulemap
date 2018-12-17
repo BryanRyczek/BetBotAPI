@@ -1,4 +1,0 @@
-module CCryptoOpenSSL {
-    umbrella "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/CCryptoOpenSSL/include"
-    export *
-}

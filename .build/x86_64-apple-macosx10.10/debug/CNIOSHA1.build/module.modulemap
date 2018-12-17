@@ -1,4 +1,0 @@
-module CNIOSHA1 {
-    umbrella "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/CNIOSHA1/include"
-    export *
-}

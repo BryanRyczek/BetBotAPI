@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "eabac72731a85eeb3e306a1b200b21a8"
-build_time: [1543474256, 817676000]
-inputs:
-  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/core.git--4406317797109753806/Sources/COperatingSystem/libc.swift": [1543471530, 0]
