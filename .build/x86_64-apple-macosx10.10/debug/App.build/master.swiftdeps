@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b06680a176c3f13001a1d714f0fb7b14"
+build_time: [1543474302, 404669000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/Controllers/TodoController.swift": [1543471487, 0]
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/Models/Todo.swift": [1543471487, 0]
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/NFLGame.swift": [1543473534, 0]
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/Poll.swift": [1543472884, 0]
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/app.swift": [1543471487, 0]
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/boot.swift": [1543471487, 0]
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/configure.swift": [1543471487, 0]
+  "/Users/bryan/Desktop/betbotVapor/Sources/App/routes.swift": [1543474008, 0]

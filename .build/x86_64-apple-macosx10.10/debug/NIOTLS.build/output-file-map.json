@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/master.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOTLS/SNIHandler.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOTLS/TLSEvents.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.swiftdeps"
+  }
+}

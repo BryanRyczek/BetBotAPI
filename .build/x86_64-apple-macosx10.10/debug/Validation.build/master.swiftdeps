@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "42e0c1e4005281783ccb5526e022b25f"
+build_time: [1543474276, 139723000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Exports.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validatable.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/ValidationError.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validations.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/ValidatorType.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/AndValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/CharacterSetValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/CountValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/EmailValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/EmptyValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/InValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/NilIgnoringValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/NilValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/NotValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/OrValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/RangeValidator.swift": [1543471530, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/validation.git-5037915001494530635/Sources/Validation/Validators/URLValidator.swift": [1543471530, 0]

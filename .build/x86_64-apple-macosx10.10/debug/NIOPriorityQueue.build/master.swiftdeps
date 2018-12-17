@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c081ac31f574404957ae4ba79000aa6a"
+build_time: [1543474256, 131614000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOPriorityQueue/Heap.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOPriorityQueue/PriorityQueue.swift": [1543471527, 0]

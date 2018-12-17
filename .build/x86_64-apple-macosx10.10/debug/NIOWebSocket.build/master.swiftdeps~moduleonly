@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "a71377152f0bd79d79a51b2b9bb28982"
+build_time: [1543474272, 895641000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/Base64.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/SHA1.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/WebSocketFrame.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/WebSocketOpcode.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1543471527, 0]

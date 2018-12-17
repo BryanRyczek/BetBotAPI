@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "faae3fcfc205387377986c4527c965cc"
+build_time: [1543474267, 343098000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1543471527, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "0e188e9da0ef9a4fdf6e2e0c5b6c455b"
+build_time: [1543474303, 229081000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/Sources/Run/main.swift": [1543471487, 0]

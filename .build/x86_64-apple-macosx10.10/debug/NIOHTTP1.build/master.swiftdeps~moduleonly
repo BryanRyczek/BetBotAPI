@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "cdc10ecfc14f98c24a7c2f4d5549961d"
+build_time: [1543474267, 345403000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPDecoder.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPEncoder.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPTypes.swift": [1543471527, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1543471527, 0]

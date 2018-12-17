@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/master.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOPriorityQueue/Heap.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/swift-nio.git--2583380601089047641/Sources/NIOPriorityQueue/PriorityQueue.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swiftdeps"
+  }
+}

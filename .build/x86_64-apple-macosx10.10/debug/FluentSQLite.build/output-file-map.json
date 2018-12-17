@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/master.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/Exports.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/FluentSQLiteError.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/FluentSQLiteProvider.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/FluentSQLiteQuery.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/FluentSQLiteSchema.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/SQLiteModels.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels.swiftdeps"
+  },
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/fluent-sqlite.git--4791703944851066784/Sources/FluentSQLite/SQLiteTypes.swift": {
+    "dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes.d",
+    "object": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes.swift.o",
+    "swiftmodule": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/bryan/Desktop/betbotVapor/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes.swiftdeps"
+  }
+}

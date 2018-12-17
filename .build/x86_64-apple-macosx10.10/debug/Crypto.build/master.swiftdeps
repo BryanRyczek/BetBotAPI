@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ecbae9c70a44cfd3df3b637a4d11e97f"
+build_time: [1543474276, 140465000]
+inputs:
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/BCrypt/BCryptDigest.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Cipher/Cipher.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Digest/Digest.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Digest/DigestAlgorithm.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/MAC/HMAC.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/MAC/OTP.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/RSA/RSA.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/RSA/RSAKey.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/RSA/RSAPadding.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Random/CryptoRandom.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Utilities/Base32.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Utilities/CryptoError.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Utilities/Deprecated.swift": [1543471529, 0]
+  "/Users/bryan/Desktop/betbotVapor/.build/checkouts/crypto.git--5925069995470755699/Sources/Crypto/Utilities/Exports.swift": [1543471529, 0]
